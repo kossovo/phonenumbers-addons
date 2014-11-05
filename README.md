@@ -8,6 +8,12 @@ As its name suggests, this module simply allows you to format a phone number to 
 
 This is a version of "bss_phonenumbers" module available here lp: bss-phonenumbers-addons / 7.0
 
+NOTE:: 
+    To used this module, you have to install python-phonenumbers 
+    links: 
+        - https://github.com/daviddrysdale/python-phonenumbers
+        - https://pypi.python.org/pypi/phonenumbers
+
 Description
 -----------
 
